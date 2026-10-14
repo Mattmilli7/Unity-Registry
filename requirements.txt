@@ -1,2 +1,2 @@
 librosa
-pretty midi
+pretty_midi
